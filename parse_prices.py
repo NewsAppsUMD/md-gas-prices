@@ -2,6 +2,7 @@
 """Parse Maryland "AGGREGATED Fuel Price Table" PDFs into JSON.
 
 Usage: python3 parse_prices.py [--force] [pdf_dir] [out_dir]
+pdf_dir defaults to pdfs/ and out_dir to data/, both next to this script.
 Only PDFs without an existing data/json/YYYY-MM-DD.json are parsed;
 --force re-parses everything. Requires `pdftotext` (poppler) on PATH.
 """
@@ -206,8 +207,9 @@ def main():
     args = sys.argv[1:]
     force = "--force" in args
     args = [a for a in args if a != "--force"]
-    pdf_dir = Path(args[0]) if args else Path(__file__).parent
-    out_dir = Path(args[1]) if len(args) > 1 else pdf_dir / "data"
+    root = Path(__file__).parent
+    pdf_dir = Path(args[0]) if args else root / "pdfs"
+    out_dir = Path(args[1]) if len(args) > 1 else root / "data"
     json_dir = out_dir / "json"
     json_dir.mkdir(parents=True, exist_ok=True)
 

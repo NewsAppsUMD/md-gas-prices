@@ -6,7 +6,7 @@ Source: [Maryland Department of General Services, Daily Fuel Prices](https://dgs
 
 ## Update the data
 
-Drop new `MM_DD_YYYY.pdf` files in this folder, then run:
+Drop new `MM_DD_YYYY.pdf` files in `pdfs/`, then run:
 
 ```bash
 python3 parse_prices.py
