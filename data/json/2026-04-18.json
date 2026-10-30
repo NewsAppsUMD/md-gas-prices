@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-18",
+  "source_file": "04_18_2026.pdf",
+  "header_date": "2026-04-18",
+  "sections": {
+    "bulk": {
+      "pricing_basis": "ALL PRICING BASED OPIS GROSS CONTRACT DAILY ON DAY OF DELIVERY, INCLUDING SATURDAY",
+      "products": [
+        {
+          "delivery_type": "tankwagon",
+          "product": "Unleaded Reg. 87/E10 and Unleaded Conv 87",
+          "product_code": "unl87",
+          "prices": {
+            "A": 3.7713,
+            "B": 3.7132,
+            "C": 3.6281,
+            "D-1": 3.7209,
+            "D-2": 3.7523,
+            "E": 3.6451
+          }
+        },
+        {
+          "delivery_type": "transport",
+          "product": "Unleaded Reg. 87/E10 and Unleaded Conv 87",
+          "product_code": "unl87",
+          "prices": {
+            "A": 3.5302,
+            "B": 3.4997,
+            "C": 3.5202,
+            "D-1": 3.6752,
+            "D-2": 3.5997,
+            "E": 3.5997
+          }
+        },
+        {
+          "delivery_type": "tankwagon",
+          "product": "#2 Ultra Low Sulfur Heating Oil",
+          "product_code": "ulsho2",
+          "prices": {
+            "A": 3.727,
+            "B": 3.606,
+            "C": 3.5824,
+            "D-1": 3.6949,
+            "D-2": 3.719,
+            "E": 3.6167
+          }
+        },
+        {
+          "delivery_type": "transport",
+          "product": "#2 Ultra Low Sulfur Heating Oil",
+          "product_code": "ulsho2",
+          "prices": {
+            "A": 3.5173,
+            "B": 3.4627,
+            "C": 3.4559,
+            "D-1": 3.5659,
+            "D-2": 3.5298,
+            "E": 3.5036
+          }
+        },
+        {
+          "delivery_type": "tankwagon",
+          "product": "ULS Diesel Clear",
+          "product_code": "ulsd_clear",
+          "prices": {
+            "A": 4.3049,
+            "B": 4.3127,
+            "C": 4.2258,
+            "D-1": 4.3895,
+            "D-2": 4.3928,
+            "E": 4.2718
+          }
+        },
+        {
+          "delivery_type": "transport",
+          "product": "ULS Diesel Clear",
+          "product_code": "ulsd_clear",
+          "prices": {
+            "A": 4.1943,
+            "B": 4.1397,
+            "C": 4.1485,
+            "D-1": 4.2743,
+            "D-2": 4.2068,
+            "E": 4.1806
+          }
+        },
+        {
+          "delivery_type": "tankwagon",
+          "product": "ULS Diesel Dyed",
+          "product_code": "ulsd_dyed",
+          "prices": {
+            "A": 3.8368,
+            "B": 3.8446,
+            "C": 3.7577,
+            "D-1": 3.9214,
+            "D-2": 3.9247,
+            "E": 3.8037
+          }
+        },
+        {
+          "delivery_type": "transport",
+          "product": "ULS Diesel Dyed",
+          "product_code": "ulsd_dyed",
+          "prices": {
+            "A": 3.7262,
+            "B": 3.6716,
+            "C": 3.6804,
+            "D-1": 3.8062,
+            "D-2": 3.7387,
+            "E": 3.7387
+          }
+        },
+        {
+          "delivery_type": "transport",
+          "product": "ULSD B5",
+          "product_code": "ulsd_b5",
+          "prices": {
+            "A": null,
+            "B": null,
+            "C": null,
+            "D-1": null,
+            "D-2": null,
+            "E": null
+          }
+        },
+        {
+          "delivery_type": "tankwagon",
+          "product": "ULSD B5",
+          "product_code": "ulsd_b5",
+          "prices": {
+            "A": null,
+            "B": 4.2989,
+            "C": null,
+            "D-1": null,
+            "D-2": null,
+            "E": null
+          }
+        }
+      ]
+    },
+    "consigned": {
+      "pricing_basis": "ALL PRICING BASED OPIS GROSS CONTRACT DAILY (SAME DAY, INCLUDING SATURDAY)",
+      "products": [
+        {
+          "delivery_type": "consigned",
+          "product": "Unleaded Reg. 87/E10 and Unleaded Conv 87",
+          "product_code": "unl87",
+          "prices": {
+            "A": 3.6395,
+            "B": 3.6165,
+            "C": 3.6041,
+            "D-1": 3.6105,
+            "D-2": 3.6568,
+            "E": 3.615
+          }
+        },
+        {
+          "delivery_type": "consigned",
+          "product": "Soy Bio-Diesel/B5",
+          "product_code": "b5_soy",
+          "prices": {
+            "A": 4.3203,
+            "B": 4.2788,
+            "C": 4.2626,
+            "D-1": 4.291,
+            "D-2": 4.2928,
+            "E": 4.2867
+          }
+        },
+        {
+          "delivery_type": "consigned",
+          "product": "ULS Diesel Clear",
+          "product_code": "ulsd_clear",
+          "prices": {
+            "A": 4.2881,
+            "B": 4.2516,
+            "C": 4.2252,
+            "D-1": 4.2588,
+            "D-2": 4.2606,
+            "E": 4.2545
+          }
+        },
+        {
+          "delivery_type": "consigned",
+          "product": "E85",
+          "product_code": "e85",
+          "prices": {
+            "A": 3.721,
+            "B": 3.7154,
+            "C": 3.7154,
+            "D-1": null,
+            "D-2": null,
+            "E": null
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maryland Fuel Prices</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header>
+    <h1>Maryland Fuel Prices</h1>
+    <div class="lede">
+      <p>This page shows the prices that the State of Maryland pays for fuel under its statewide fuel contract.
+        All prices are in dollars per gallon. They are not retail pump prices.</p>
+      <p>The Maryland Department of General Services (DGS) publishes a new price table each day, Monday to Saturday.
+        Each table gives prices for 14 combinations of fuel type and delivery method, in six regions of the state.
+        The prices follow the OPIS daily wholesale contract price for the delivery day.</p>
+      <p>Use the controls below to select a fuel, regions and a time range. The chart and table show how prices change
+        from day to day and from week to week.</p>
+    </div>
+    <p class="source">Source: <a href="https://dgs.maryland.gov/pages/fuelprices.aspx">Maryland DGS, Daily Fuel Prices</a></p>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Filters">
+      <label class="control">
+        <span>Fuel</span>
+        <select id="product"></select>
+      </label>
+      <div class="control">
+        <span>Time range</span>
+        <div class="segmented" id="range" role="radiogroup" aria-label="Time range">
+          <button type="button" data-value="30">1 month</button>
+          <button type="button" data-value="90">3 months</button>
+          <button type="button" data-value="all">All</button>
+        </div>
+      </div>
+      <div class="control">
+        <span>Chart</span>
+        <div class="segmented" id="view" role="radiogroup" aria-label="Chart interval">
+          <button type="button" data-value="daily">Daily</button>
+          <button type="button" data-value="weekly">Weekly</button>
+        </div>
+      </div>
+    </section>
+
+    <fieldset class="regions" id="regions">
+      <legend>Regions <span class="hint">(hover for counties)</span></legend>
+      <div class="region-chips" id="region-chips"></div>
+      <div class="region-bulk">
+        <button type="button" class="link-button" id="regions-all">Select all</button>
+        <button type="button" class="link-button" id="regions-none">Clear all</button>
+      </div>
+    </fieldset>
+
+    <section aria-labelledby="latest-heading">
+      <h2 id="latest-heading">Latest prices</h2>
+      <p class="note" id="latest-note"></p>
+      <div class="tiles" id="tiles"></div>
+    </section>
+
+    <section class="card" aria-labelledby="chart-heading">
+      <h2 id="chart-heading">Price over time</h2>
+      <p class="note" id="chart-note"></p>
+      <div class="chart-wrap"><canvas id="chart" role="img" aria-label="Line chart of price by region"></canvas></div>
+      <p class="empty" id="chart-empty" hidden>No prices published for this fuel in the selected regions.</p>
+    </section>
+
+    <section aria-labelledby="table-heading">
+      <h2 id="table-heading">Changes by region</h2>
+      <div class="table-wrap">
+        <table id="table">
+          <thead>
+            <tr>
+              <th scope="col" data-sort="region">Region</th>
+              <th scope="col" data-sort="latest" class="num">Latest</th>
+              <th scope="col" data-sort="day" class="num">1-day Δ</th>
+              <th scope="col" data-sort="week" class="num">1-week Δ</th>
+              <th scope="col" data-sort="month" class="num">1-month Δ</th>
+              <th scope="col" data-sort="min" class="num">Range low</th>
+              <th scope="col" data-sort="max" class="num">Range high</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <details class="counties">
+      <summary>Which counties are in each region?</summary>
+      <dl id="counties"></dl>
+    </details>
+  </main>
+
+  <footer>
+    <h2>About the data</h2>
+    <dl class="terms">
+      <dt>Tankwagon</dt>
+      <dd>Fuel delivered by a smaller tank truck.</dd>
+      <dt>Transport</dt>
+      <dd>Fuel delivered as a full tanker-truck load. The price is usually lower than tankwagon.</dd>
+      <dt>Consigned</dt>
+      <dd>Fuel that the supplier keeps in State tanks. The State pays when it uses the fuel.</dd>
+    </dl>
+    <p>DGS does not publish prices on Sunday. The Saturday price applies through Monday, so a change of zero on a
+      Monday is normal. "—" means that the fuel is not offered in that region. A day change compares with the previous
+      published day. Week and month changes compare with the latest published day at least 7 or 30 days earlier.</p>
+    <p>Source: <a href="https://dgs.maryland.gov/pages/fuelprices.aspx">Maryland Department of General Services,
+      Daily Fuel Prices</a>, part of the Statewide Automated Fuel Dispensing and Management System. The DGS site keeps
+      only the last 90 days of price tables. This site keeps every table that has been collected. For older data,
+      contact the DGS Fuel Management Department at 410-767-4310.</p>
+  </footer>
+</body>
+</html>

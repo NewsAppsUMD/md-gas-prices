@@ -1,0 +1,100 @@
+[
+  {
+    "key": "bulk/tankwagon/unl87",
+    "section": "bulk",
+    "delivery_type": "tankwagon",
+    "product_code": "unl87",
+    "product": "Unleaded Reg. 87/E10 and Unleaded Conv 87"
+  },
+  {
+    "key": "bulk/transport/unl87",
+    "section": "bulk",
+    "delivery_type": "transport",
+    "product_code": "unl87",
+    "product": "Unleaded Reg. 87/E10 and Unleaded Conv 87"
+  },
+  {
+    "key": "bulk/tankwagon/ulsho2",
+    "section": "bulk",
+    "delivery_type": "tankwagon",
+    "product_code": "ulsho2",
+    "product": "#2 Ultra Low Sulfur Heating Oil"
+  },
+  {
+    "key": "bulk/transport/ulsho2",
+    "section": "bulk",
+    "delivery_type": "transport",
+    "product_code": "ulsho2",
+    "product": "#2 Ultra Low Sulfur Heating Oil"
+  },
+  {
+    "key": "bulk/tankwagon/ulsd_clear",
+    "section": "bulk",
+    "delivery_type": "tankwagon",
+    "product_code": "ulsd_clear",
+    "product": "ULS Diesel Clear"
+  },
+  {
+    "key": "bulk/transport/ulsd_clear",
+    "section": "bulk",
+    "delivery_type": "transport",
+    "product_code": "ulsd_clear",
+    "product": "ULS Diesel Clear"
+  },
+  {
+    "key": "bulk/tankwagon/ulsd_dyed",
+    "section": "bulk",
+    "delivery_type": "tankwagon",
+    "product_code": "ulsd_dyed",
+    "product": "ULS Diesel Dyed"
+  },
+  {
+    "key": "bulk/transport/ulsd_dyed",
+    "section": "bulk",
+    "delivery_type": "transport",
+    "product_code": "ulsd_dyed",
+    "product": "ULS Diesel Dyed"
+  },
+  {
+    "key": "bulk/transport/ulsd_b5",
+    "section": "bulk",
+    "delivery_type": "transport",
+    "product_code": "ulsd_b5",
+    "product": "ULSD B5"
+  },
+  {
+    "key": "bulk/tankwagon/ulsd_b5",
+    "section": "bulk",
+    "delivery_type": "tankwagon",
+    "product_code": "ulsd_b5",
+    "product": "ULSD B5"
+  },
+  {
+    "key": "consigned/consigned/unl87",
+    "section": "consigned",
+    "delivery_type": "consigned",
+    "product_code": "unl87",
+    "product": "Unleaded Reg. 87/E10 and Unleaded Conv 87"
+  },
+  {
+    "key": "consigned/consigned/b5_soy",
+    "section": "consigned",
+    "delivery_type": "consigned",
+    "product_code": "b5_soy",
+    "product": "Soy Bio-Diesel/B5"
+  },
+  {
+    "key": "consigned/consigned/ulsd_clear",
+    "section": "consigned",
+    "delivery_type": "consigned",
+    "product_code": "ulsd_clear",
+    "product": "ULS Diesel Clear"
+  },
+  {
+    "key": "consigned/consigned/e85",
+    "section": "consigned",
+    "delivery_type": "consigned",
+    "product_code": "e85",
+    "product": "E85"
+  }
+]
