@@ -33,3 +33,7 @@ python3 -m http.server
 ```
 
 Then open <http://localhost:8000/site/>. On GitHub Pages, publish the repository root (with `data/` committed) and the site will be at `/site/`.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The fuel price data comes from the Maryland Department of General Services and is not covered by this license.
