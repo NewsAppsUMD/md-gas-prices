@@ -1,0 +1,47 @@
+# Publish the static site to GitHub Pages.
+# Deploys the committed site/ and data/ as they are; it does not run the parser,
+# so run parse_prices.py and commit data/ before pushing.
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}site/
+    steps:
+      - name: Check out site and data (skip the PDFs)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            site
+            data
+
+      - name: Assemble the site
+        # site/ loads ../data/, so the two folders stay side by side.
+        run: |
+          mkdir _site
+          cp -R site data index.html .nojekyll _site/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
