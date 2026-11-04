@@ -6,11 +6,12 @@ pdf_dir defaults to pdfs/ and out_dir to data/, both next to this script.
 Only PDFs without an existing data/json/YYYY-MM-DD.json are parsed;
 --force re-parses everything. Requires `pdftotext` (poppler) on PATH.
 """
+import csv
 import json
 import re
 import subprocess
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 REGIONS = ["A", "B", "C", "D-1", "D-2", "E"]
@@ -203,6 +204,52 @@ def latest(records):
     }
 
 
+SERIES_FIELDS = ["section", "delivery_type", "product_code", "product", "region"]
+
+
+def write_csv(path, fields, rows):
+    with path.open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows)
+
+
+def averages(long_rows, period_of):
+    """Average price per period, product and region over published days.
+
+    period_of maps an ISO date to a tuple of period column values. Days with
+    no price (fuel not offered) are skipped; avg_price is blank if none had one.
+    """
+    groups = {}
+    for row in long_rows:
+        key = period_of(row["date"]) + tuple(row[f] for f in SERIES_FIELDS)
+        g = groups.setdefault(key, [])
+        if row["price"] is not None:
+            g.append(row["price"])
+    for key, prices in groups.items():
+        yield key, (round(sum(prices) / len(prices), 4) if prices else None), len(prices)
+
+
+def write_csvs(long_rows, csv_dir):
+    """Daily prices plus weekly (Monday-start) and monthly averages as CSV."""
+    csv_dir.mkdir(parents=True, exist_ok=True)
+    write_csv(csv_dir / "daily.csv", ["date", *SERIES_FIELDS, "price"], long_rows)
+
+    def week(iso):
+        d = date.fromisoformat(iso)
+        start = d - timedelta(days=d.weekday())
+        return start.isoformat(), (start + timedelta(days=6)).isoformat()
+
+    periods = {
+        "weekly.csv": (["week_start", "week_end"], week),
+        "monthly.csv": (["month"], lambda iso: (iso[:7],)),
+    }
+    for name, (period_fields, period_of) in periods.items():
+        fields = [*period_fields, *SERIES_FIELDS, "avg_price", "days"]
+        rows = [dict(zip(fields, (*key, avg, n))) for key, avg, n in averages(long_rows, period_of)]
+        write_csv(csv_dir / name, fields, rows)
+
+
 def main():
     args = sys.argv[1:]
     force = "--force" in args
@@ -233,6 +280,7 @@ def main():
     records = [json.loads(p.read_text()) for p in sorted(json_dir.glob("*.json"))]
     long_rows = [row for r in records for row in to_long(r)]
     (out_dir / "prices.json").write_text(json.dumps(long_rows, indent=1) + "\n")
+    write_csvs(long_rows, out_dir / "csv")
     (out_dir / "regions.json").write_text(json.dumps(
         {c: region for region, cs in REGION_COUNTIES.items() for c in cs}, indent=2) + "\n")
     if records:

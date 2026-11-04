@@ -1,0 +1,1765 @@
+month,section,delivery_type,product_code,product,region,avg_price,days
+2025-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.9004,24
+2025-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8423,24
+2025-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7572,24
+2025-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.85,24
+2025-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8814,24
+2025-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7742,24
+2025-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6593,24
+2025-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6288,24
+2025-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6493,24
+2025-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8043,24
+2025-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7288,24
+2025-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7288,24
+2025-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.9311,24
+2025-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.8101,24
+2025-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.7865,24
+2025-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.899,24
+2025-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.9231,24
+2025-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.8208,24
+2025-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.7214,24
+2025-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.6668,24
+2025-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.66,24
+2025-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.77,24
+2025-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.7339,24
+2025-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.7077,24
+2025-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.357,24
+2025-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.3648,24
+2025-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.2779,24
+2025-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.4416,24
+2025-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.4449,24
+2025-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.3239,24
+2025-02,bulk,transport,ulsd_clear,ULS Diesel Clear,A,3.2464,24
+2025-02,bulk,transport,ulsd_clear,ULS Diesel Clear,B,3.1918,24
+2025-02,bulk,transport,ulsd_clear,ULS Diesel Clear,C,3.2006,24
+2025-02,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.3264,24
+2025-02,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,3.2589,24
+2025-02,bulk,transport,ulsd_clear,ULS Diesel Clear,E,3.2327,24
+2025-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.8937,24
+2025-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.9015,24
+2025-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.8146,24
+2025-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.9783,24
+2025-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.9816,24
+2025-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.8606,24
+2025-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.7831,24
+2025-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.7285,24
+2025-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.7373,24
+2025-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.8631,24
+2025-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.7956,24
+2025-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.7956,24
+2025-02,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-02,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-02,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-02,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-02,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-02,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-02,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-02,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.3633,24
+2025-02,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-02,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-02,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-02,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7686,24
+2025-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7456,24
+2025-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7332,24
+2025-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7396,24
+2025-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7859,24
+2025-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7441,24
+2025-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.3847,24
+2025-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.3432,24
+2025-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.327,24
+2025-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.3554,24
+2025-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.3572,24
+2025-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.3511,24
+2025-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.3402,24
+2025-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.3037,24
+2025-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.2773,24
+2025-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.3109,24
+2025-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.3127,24
+2025-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.3066,24
+2025-02,consigned,consigned,e85,E85,A,3.7229,24
+2025-02,consigned,consigned,e85,E85,B,3.7173,24
+2025-02,consigned,consigned,e85,E85,C,3.7173,24
+2025-02,consigned,consigned,e85,E85,D-1,,0
+2025-02,consigned,consigned,e85,E85,D-2,,0
+2025-02,consigned,consigned,e85,E85,E,,0
+2025-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.9162,26
+2025-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8581,26
+2025-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.773,26
+2025-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8658,26
+2025-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8972,26
+2025-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.79,26
+2025-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6751,26
+2025-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6446,26
+2025-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6651,26
+2025-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8201,26
+2025-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7446,26
+2025-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7446,26
+2025-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.5957,26
+2025-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.4747,26
+2025-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.4511,26
+2025-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.5636,26
+2025-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.5877,26
+2025-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.4854,26
+2025-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.386,26
+2025-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3314,26
+2025-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3246,26
+2025-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4346,26
+2025-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.3985,26
+2025-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3723,26
+2025-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.0975,26
+2025-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.1053,26
+2025-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.0184,26
+2025-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.1821,26
+2025-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.1854,26
+2025-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.0644,26
+2025-03,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.9869,26
+2025-03,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.9323,26
+2025-03,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.9411,26
+2025-03,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.0669,26
+2025-03,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.9994,26
+2025-03,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.9732,26
+2025-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.6258,26
+2025-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.6336,26
+2025-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.5467,26
+2025-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.7104,26
+2025-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.7137,26
+2025-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.5927,26
+2025-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.5152,26
+2025-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.4606,26
+2025-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.4694,26
+2025-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.5952,26
+2025-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.5277,26
+2025-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.5277,26
+2025-03,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-03,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-03,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-03,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-03,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-03,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-03,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-03,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.0905,26
+2025-03,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-03,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-03,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-03,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7844,26
+2025-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7614,26
+2025-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.749,26
+2025-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7554,26
+2025-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8017,26
+2025-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7599,26
+2025-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.1119,26
+2025-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.0704,26
+2025-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.0542,26
+2025-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.0826,26
+2025-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.0844,26
+2025-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.0783,26
+2025-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.0807,26
+2025-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.0442,26
+2025-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.0178,26
+2025-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.0514,26
+2025-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.0532,26
+2025-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.0471,26
+2025-03,consigned,consigned,e85,E85,A,3.7229,26
+2025-03,consigned,consigned,e85,E85,B,3.7173,26
+2025-03,consigned,consigned,e85,E85,C,3.7173,26
+2025-03,consigned,consigned,e85,E85,D-1,,0
+2025-03,consigned,consigned,e85,E85,D-2,,0
+2025-03,consigned,consigned,e85,E85,E,,0
+2025-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.8978,26
+2025-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8397,26
+2025-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7546,26
+2025-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8474,26
+2025-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8788,26
+2025-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7716,26
+2025-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6567,26
+2025-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6262,26
+2025-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6467,26
+2025-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8017,26
+2025-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7262,26
+2025-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7262,26
+2025-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.4622,26
+2025-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3412,26
+2025-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3176,26
+2025-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4301,26
+2025-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.4542,26
+2025-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3519,26
+2025-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.2525,26
+2025-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.1979,26
+2025-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.1911,26
+2025-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.3011,26
+2025-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.265,26
+2025-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.2388,26
+2025-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,2.958,26
+2025-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,2.9658,26
+2025-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,2.8789,26
+2025-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.0426,26
+2025-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.0459,26
+2025-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,2.9249,26
+2025-04,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.8474,26
+2025-04,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.7928,26
+2025-04,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.8016,26
+2025-04,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,2.9274,26
+2025-04,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.8599,26
+2025-04,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.8337,26
+2025-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.4848,26
+2025-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.4926,26
+2025-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.4057,26
+2025-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.5694,26
+2025-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.5727,26
+2025-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.4517,26
+2025-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.3742,26
+2025-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.3196,26
+2025-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.3284,26
+2025-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.4542,26
+2025-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.3867,26
+2025-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.3867,26
+2025-04,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-04,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-04,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-04,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-04,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-04,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-04,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-04,bulk,tankwagon,ulsd_b5,ULSD B5,B,2.9478,26
+2025-04,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-04,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-04,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-04,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.766,26
+2025-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.743,26
+2025-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7306,26
+2025-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.737,26
+2025-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7833,26
+2025-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7415,26
+2025-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,2.9692,26
+2025-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,2.9277,26
+2025-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,2.9115,26
+2025-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,2.9399,26
+2025-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,2.9417,26
+2025-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,2.9356,26
+2025-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,2.9412,26
+2025-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,2.9047,26
+2025-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,2.8783,26
+2025-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,2.9119,26
+2025-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,2.9137,26
+2025-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,2.9076,26
+2025-04,consigned,consigned,e85,E85,A,3.7229,26
+2025-04,consigned,consigned,e85,E85,B,3.7173,26
+2025-04,consigned,consigned,e85,E85,C,3.7173,26
+2025-04,consigned,consigned,e85,E85,D-1,,0
+2025-04,consigned,consigned,e85,E85,D-2,,0
+2025-04,consigned,consigned,e85,E85,E,,0
+2025-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.8874,27
+2025-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8293,27
+2025-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7442,27
+2025-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.837,27
+2025-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8684,27
+2025-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7612,27
+2025-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6463,27
+2025-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6158,27
+2025-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6363,27
+2025-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7913,27
+2025-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7158,27
+2025-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7158,27
+2025-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.4068,27
+2025-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.2858,27
+2025-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.2622,27
+2025-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.3747,27
+2025-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.3988,27
+2025-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.2965,27
+2025-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.1971,27
+2025-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.1425,27
+2025-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.1357,27
+2025-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.2457,27
+2025-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.2096,27
+2025-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.1834,27
+2025-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,2.9089,27
+2025-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,2.9167,27
+2025-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,2.8298,27
+2025-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,2.9935,27
+2025-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,2.9968,27
+2025-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,2.8758,27
+2025-05,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.7983,27
+2025-05,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.7437,27
+2025-05,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.7525,27
+2025-05,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,2.8783,27
+2025-05,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.8108,27
+2025-05,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.7846,27
+2025-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.4413,27
+2025-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.4491,27
+2025-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.3622,27
+2025-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.5259,27
+2025-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.5292,27
+2025-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.4082,27
+2025-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.3307,27
+2025-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.2761,27
+2025-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.2849,27
+2025-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.4107,27
+2025-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.3432,27
+2025-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.3432,27
+2025-05,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-05,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-05,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-05,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-05,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-05,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-05,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-05,bulk,tankwagon,ulsd_b5,ULSD B5,B,2.9283,27
+2025-05,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-05,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-05,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-05,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7556,27
+2025-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7326,27
+2025-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7202,27
+2025-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7266,27
+2025-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7729,27
+2025-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7311,27
+2025-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,2.9497,27
+2025-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,2.9082,27
+2025-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,2.892,27
+2025-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,2.9204,27
+2025-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,2.9222,27
+2025-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,2.9161,27
+2025-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,2.8921,27
+2025-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,2.8556,27
+2025-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,2.8292,27
+2025-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,2.8628,27
+2025-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,2.8646,27
+2025-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,2.8585,27
+2025-05,consigned,consigned,e85,E85,A,3.7229,27
+2025-05,consigned,consigned,e85,E85,B,3.7173,27
+2025-05,consigned,consigned,e85,E85,C,3.7173,27
+2025-05,consigned,consigned,e85,E85,D-1,,0
+2025-05,consigned,consigned,e85,E85,D-2,,0
+2025-05,consigned,consigned,e85,E85,E,,0
+2025-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.9293,25
+2025-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8712,25
+2025-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7861,25
+2025-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8789,25
+2025-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.9103,25
+2025-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.8031,25
+2025-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6882,25
+2025-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6577,25
+2025-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6782,25
+2025-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8332,25
+2025-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7577,25
+2025-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7577,25
+2025-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.6217,25
+2025-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.5007,25
+2025-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.4771,25
+2025-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.5896,25
+2025-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.6137,25
+2025-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.5114,25
+2025-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.412,25
+2025-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3574,25
+2025-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3506,25
+2025-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4606,25
+2025-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.4245,25
+2025-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3983,25
+2025-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.1115,25
+2025-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.1193,25
+2025-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.0324,25
+2025-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.1961,25
+2025-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.1994,25
+2025-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.0784,25
+2025-06,bulk,transport,ulsd_clear,ULS Diesel Clear,A,3.0009,25
+2025-06,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.9463,25
+2025-06,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.9551,25
+2025-06,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.0809,25
+2025-06,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,3.0134,25
+2025-06,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.9872,25
+2025-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.6455,25
+2025-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.6533,25
+2025-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.5664,25
+2025-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.7301,25
+2025-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.7334,25
+2025-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.6124,25
+2025-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.5349,25
+2025-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.4803,25
+2025-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.4891,25
+2025-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.6149,25
+2025-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.5474,25
+2025-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.5474,25
+2025-06,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-06,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-06,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-06,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-06,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-06,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-06,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-06,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.1495,25
+2025-06,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-06,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-06,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-06,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7975,25
+2025-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7745,25
+2025-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7621,25
+2025-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7685,25
+2025-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8148,25
+2025-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.773,25
+2025-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.1709,25
+2025-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.1294,25
+2025-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.1132,25
+2025-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.1416,25
+2025-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.1434,25
+2025-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.1373,25
+2025-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.0947,25
+2025-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.0582,25
+2025-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.0318,25
+2025-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.0654,25
+2025-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.0672,25
+2025-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.0611,25
+2025-06,consigned,consigned,e85,E85,A,3.7229,25
+2025-06,consigned,consigned,e85,E85,B,3.7173,25
+2025-06,consigned,consigned,e85,E85,C,3.7173,25
+2025-06,consigned,consigned,e85,E85,D-1,,0
+2025-06,consigned,consigned,e85,E85,D-2,,0
+2025-06,consigned,consigned,e85,E85,E,,0
+2025-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.9025,27
+2025-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8444,27
+2025-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7593,27
+2025-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8521,27
+2025-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8835,27
+2025-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7763,27
+2025-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6614,27
+2025-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6309,27
+2025-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6514,27
+2025-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8064,27
+2025-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7309,27
+2025-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7309,27
+2025-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.7815,27
+2025-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.6605,27
+2025-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.6369,27
+2025-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.7494,27
+2025-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.7735,27
+2025-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.6712,27
+2025-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.5718,27
+2025-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.5172,27
+2025-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.5104,27
+2025-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.6204,27
+2025-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.5843,27
+2025-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.5581,27
+2025-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.282,27
+2025-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.2898,27
+2025-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.2029,27
+2025-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.3666,27
+2025-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.3699,27
+2025-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.2489,27
+2025-07,bulk,transport,ulsd_clear,ULS Diesel Clear,A,3.1714,27
+2025-07,bulk,transport,ulsd_clear,ULS Diesel Clear,B,3.1168,27
+2025-07,bulk,transport,ulsd_clear,ULS Diesel Clear,C,3.1256,27
+2025-07,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.2514,27
+2025-07,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,3.1839,27
+2025-07,bulk,transport,ulsd_clear,ULS Diesel Clear,E,3.1577,27
+2025-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.8172,27
+2025-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.825,27
+2025-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.7381,27
+2025-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.9018,27
+2025-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.9051,27
+2025-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.7841,27
+2025-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.7066,27
+2025-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.652,27
+2025-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.6608,27
+2025-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.7866,27
+2025-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.7191,27
+2025-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.7191,27
+2025-07,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-07,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-07,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-07,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-07,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-07,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-07,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-07,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.3308,27
+2025-07,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-07,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-07,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-07,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7707,27
+2025-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7477,27
+2025-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7353,27
+2025-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7417,27
+2025-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.788,27
+2025-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7462,27
+2025-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.3521,27
+2025-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.3106,27
+2025-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.2944,27
+2025-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.3228,27
+2025-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.3246,27
+2025-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.3185,27
+2025-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.2651,27
+2025-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.2286,27
+2025-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.2022,27
+2025-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.2358,27
+2025-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.2376,27
+2025-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.2315,27
+2025-07,consigned,consigned,e85,E85,A,3.7229,27
+2025-07,consigned,consigned,e85,E85,B,3.7173,27
+2025-07,consigned,consigned,e85,E85,C,3.7173,27
+2025-07,consigned,consigned,e85,E85,D-1,,0
+2025-07,consigned,consigned,e85,E85,D-2,,0
+2025-07,consigned,consigned,e85,E85,E,,0
+2025-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.8765,26
+2025-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8184,26
+2025-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7333,26
+2025-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8261,26
+2025-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8575,26
+2025-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7503,26
+2025-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6354,26
+2025-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6049,26
+2025-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6254,26
+2025-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7804,26
+2025-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7049,26
+2025-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7049,26
+2025-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.5898,26
+2025-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.4688,26
+2025-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.4452,26
+2025-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.5577,26
+2025-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.5818,26
+2025-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.4795,26
+2025-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.3801,26
+2025-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3255,26
+2025-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3187,26
+2025-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4287,26
+2025-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.3926,26
+2025-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3664,26
+2025-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.0958,26
+2025-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.1036,26
+2025-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.0167,26
+2025-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.1804,26
+2025-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.1837,26
+2025-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.0627,26
+2025-08,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.9852,26
+2025-08,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.9306,26
+2025-08,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.9394,26
+2025-08,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.0652,26
+2025-08,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.9977,26
+2025-08,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.9715,26
+2025-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.6276,26
+2025-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.6354,26
+2025-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.5485,26
+2025-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.7122,26
+2025-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.7155,26
+2025-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.5945,26
+2025-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.517,26
+2025-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.4624,26
+2025-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.4712,26
+2025-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.597,26
+2025-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.5295,26
+2025-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.5295,26
+2025-08,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-08,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-08,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-08,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-08,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-08,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-08,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-08,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.0925,26
+2025-08,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-08,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-08,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-08,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7447,26
+2025-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7217,26
+2025-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7093,26
+2025-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7157,26
+2025-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.762,26
+2025-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7202,26
+2025-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.1138,26
+2025-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.0723,26
+2025-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.0561,26
+2025-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.0845,26
+2025-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.0863,26
+2025-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.0802,26
+2025-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.0789,26
+2025-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.0424,26
+2025-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.016,26
+2025-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.0496,26
+2025-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.0514,26
+2025-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.0453,26
+2025-08,consigned,consigned,e85,E85,A,3.7229,26
+2025-08,consigned,consigned,e85,E85,B,3.7173,26
+2025-08,consigned,consigned,e85,E85,C,3.7173,26
+2025-08,consigned,consigned,e85,E85,D-1,,0
+2025-08,consigned,consigned,e85,E85,D-2,,0
+2025-08,consigned,consigned,e85,E85,E,,0
+2025-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.9017,26
+2025-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.8436,26
+2025-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7585,26
+2025-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8513,26
+2025-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.8827,26
+2025-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7755,26
+2025-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6606,26
+2025-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6301,26
+2025-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6506,26
+2025-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.8056,26
+2025-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7301,26
+2025-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7301,26
+2025-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.6531,26
+2025-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.5321,26
+2025-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.5085,26
+2025-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.621,26
+2025-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.6451,26
+2025-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.5428,26
+2025-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.4434,26
+2025-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3888,26
+2025-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.382,26
+2025-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.492,26
+2025-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.4559,26
+2025-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.4297,26
+2025-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.1286,26
+2025-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.1364,26
+2025-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.0495,26
+2025-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.2132,26
+2025-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.2165,26
+2025-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.0955,26
+2025-09,bulk,transport,ulsd_clear,ULS Diesel Clear,A,3.018,26
+2025-09,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.9634,26
+2025-09,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.9722,26
+2025-09,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.098,26
+2025-09,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,3.0305,26
+2025-09,bulk,transport,ulsd_clear,ULS Diesel Clear,E,3.0043,26
+2025-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.6606,26
+2025-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.6684,26
+2025-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.5815,26
+2025-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.7452,26
+2025-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.7485,26
+2025-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.6275,26
+2025-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.55,26
+2025-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.4954,26
+2025-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.5042,26
+2025-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.63,26
+2025-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.5625,26
+2025-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.5625,26
+2025-09,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-09,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-09,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-09,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-09,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-09,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-09,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-09,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.1214,26
+2025-09,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-09,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-09,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-09,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7699,26
+2025-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7469,26
+2025-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.7345,26
+2025-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7409,26
+2025-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7872,26
+2025-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.7454,26
+2025-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.1427,26
+2025-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.1012,26
+2025-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.085,26
+2025-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.1134,26
+2025-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.1152,26
+2025-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.1091,26
+2025-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.1117,26
+2025-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.0752,26
+2025-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.0488,26
+2025-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.0824,26
+2025-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.0842,26
+2025-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.0781,26
+2025-09,consigned,consigned,e85,E85,A,3.7229,26
+2025-09,consigned,consigned,e85,E85,B,3.7173,26
+2025-09,consigned,consigned,e85,E85,C,3.7173,26
+2025-09,consigned,consigned,e85,E85,D-1,,0
+2025-09,consigned,consigned,e85,E85,D-2,,0
+2025-09,consigned,consigned,e85,E85,E,,0
+2025-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7744,27
+2025-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7163,27
+2025-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6312,27
+2025-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.724,27
+2025-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7554,27
+2025-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.6482,27
+2025-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.5333,27
+2025-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.5028,27
+2025-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.5233,27
+2025-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.6783,27
+2025-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.6028,27
+2025-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.6028,27
+2025-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.6069,27
+2025-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.4859,27
+2025-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.4623,27
+2025-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.5748,27
+2025-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.5989,27
+2025-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.4966,27
+2025-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.3972,27
+2025-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3426,27
+2025-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3358,27
+2025-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4458,27
+2025-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.4097,27
+2025-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3835,27
+2025-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.071,27
+2025-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.0788,27
+2025-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,2.9919,27
+2025-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.1556,27
+2025-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.1589,27
+2025-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.0379,27
+2025-10,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.9604,27
+2025-10,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.9058,27
+2025-10,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.9146,27
+2025-10,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.0404,27
+2025-10,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.9729,27
+2025-10,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.9467,27
+2025-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.6073,27
+2025-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.6151,27
+2025-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.5282,27
+2025-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.6919,27
+2025-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.6952,27
+2025-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.5742,27
+2025-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.4967,27
+2025-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.4421,27
+2025-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.4509,27
+2025-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.5767,27
+2025-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.5092,27
+2025-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.5092,27
+2025-10,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-10,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-10,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-10,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-10,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-10,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-10,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-10,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.0844,27
+2025-10,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-10,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-10,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-10,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6426,27
+2025-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6196,27
+2025-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6072,27
+2025-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.6136,27
+2025-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.6599,27
+2025-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.6181,27
+2025-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.1057,27
+2025-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.0642,27
+2025-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.048,27
+2025-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.0764,27
+2025-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.0782,27
+2025-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.0721,27
+2025-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.0541,27
+2025-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.0176,27
+2025-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,2.9912,27
+2025-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.0248,27
+2025-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.0266,27
+2025-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.0205,27
+2025-10,consigned,consigned,e85,E85,A,3.7229,27
+2025-10,consigned,consigned,e85,E85,B,3.7173,27
+2025-10,consigned,consigned,e85,E85,C,3.7173,27
+2025-10,consigned,consigned,e85,E85,D-1,,0
+2025-10,consigned,consigned,e85,E85,D-2,,0
+2025-10,consigned,consigned,e85,E85,E,,0
+2025-11,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.8167,25
+2025-11,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.7586,25
+2025-11,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6735,25
+2025-11,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7663,25
+2025-11,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7977,25
+2025-11,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.6905,25
+2025-11,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.5756,25
+2025-11,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.5451,25
+2025-11,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.5656,25
+2025-11,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.7206,25
+2025-11,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.6451,25
+2025-11,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.6451,25
+2025-11,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.8045,25
+2025-11,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.6835,25
+2025-11,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.6599,25
+2025-11,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.7724,25
+2025-11,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.7965,25
+2025-11,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.6942,25
+2025-11,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.5948,25
+2025-11,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.5402,25
+2025-11,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.5334,25
+2025-11,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.6434,25
+2025-11,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.6073,25
+2025-11,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.5811,25
+2025-11,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.2643,25
+2025-11,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.2721,25
+2025-11,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.1852,25
+2025-11,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.3489,25
+2025-11,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.3522,25
+2025-11,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.2312,25
+2025-11,bulk,transport,ulsd_clear,ULS Diesel Clear,A,3.1537,25
+2025-11,bulk,transport,ulsd_clear,ULS Diesel Clear,B,3.0991,25
+2025-11,bulk,transport,ulsd_clear,ULS Diesel Clear,C,3.1079,25
+2025-11,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.2337,25
+2025-11,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,3.1662,25
+2025-11,bulk,transport,ulsd_clear,ULS Diesel Clear,E,3.14,25
+2025-11,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.8005,25
+2025-11,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.8083,25
+2025-11,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.7214,25
+2025-11,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.8851,25
+2025-11,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.8884,25
+2025-11,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.7674,25
+2025-11,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.6899,25
+2025-11,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.6353,25
+2025-11,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.6441,25
+2025-11,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.7699,25
+2025-11,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.7024,25
+2025-11,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.7024,25
+2025-11,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-11,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-11,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-11,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-11,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-11,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-11,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-11,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.2817,25
+2025-11,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-11,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-11,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-11,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-11,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6849,25
+2025-11,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6619,25
+2025-11,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.6495,25
+2025-11,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.6559,25
+2025-11,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7022,25
+2025-11,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.6604,25
+2025-11,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.303,25
+2025-11,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.2615,25
+2025-11,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.2453,25
+2025-11,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.2737,25
+2025-11,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.2755,25
+2025-11,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.2694,25
+2025-11,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.2474,25
+2025-11,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.2109,25
+2025-11,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.1845,25
+2025-11,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.2181,25
+2025-11,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.2199,25
+2025-11,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.2138,25
+2025-11,consigned,consigned,e85,E85,A,3.7229,25
+2025-11,consigned,consigned,e85,E85,B,3.7173,25
+2025-11,consigned,consigned,e85,E85,C,3.7173,25
+2025-11,consigned,consigned,e85,E85,D-1,,0
+2025-11,consigned,consigned,e85,E85,D-2,,0
+2025-11,consigned,consigned,e85,E85,E,,0
+2025-12,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6747,27
+2025-12,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6166,27
+2025-12,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.5315,27
+2025-12,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.6243,27
+2025-12,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.6557,27
+2025-12,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5485,27
+2025-12,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.4336,27
+2025-12,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.4031,27
+2025-12,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.4236,27
+2025-12,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.5786,27
+2025-12,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.5031,27
+2025-12,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5031,27
+2025-12,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.5789,27
+2025-12,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.4579,27
+2025-12,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.4343,27
+2025-12,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.5468,27
+2025-12,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.5709,27
+2025-12,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.4686,27
+2025-12,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.3692,27
+2025-12,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.3146,27
+2025-12,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3078,27
+2025-12,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4178,27
+2025-12,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.3817,27
+2025-12,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3555,27
+2025-12,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.0284,27
+2025-12,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.0362,27
+2025-12,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,2.9493,27
+2025-12,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.113,27
+2025-12,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.1163,27
+2025-12,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,2.9953,27
+2025-12,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.9178,27
+2025-12,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.8632,27
+2025-12,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.872,27
+2025-12,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,2.9978,27
+2025-12,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.9303,27
+2025-12,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.9041,27
+2025-12,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.5638,27
+2025-12,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.5716,27
+2025-12,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.4847,27
+2025-12,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.6484,27
+2025-12,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.6517,27
+2025-12,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.5307,27
+2025-12,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.4532,27
+2025-12,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.3986,27
+2025-12,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.4074,27
+2025-12,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.5332,27
+2025-12,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.4657,27
+2025-12,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.4657,27
+2025-12,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2025-12,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2025-12,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2025-12,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2025-12,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2025-12,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2025-12,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2025-12,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.0265,27
+2025-12,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2025-12,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2025-12,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2025-12,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2025-12,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.5429,27
+2025-12,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.5199,27
+2025-12,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.5075,27
+2025-12,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.5139,27
+2025-12,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.5602,27
+2025-12,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5184,27
+2025-12,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.0478,27
+2025-12,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.0063,27
+2025-12,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,2.9901,27
+2025-12,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.0185,27
+2025-12,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.0203,27
+2025-12,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.0142,27
+2025-12,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.0115,27
+2025-12,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,2.975,27
+2025-12,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,2.9486,27
+2025-12,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,2.9822,27
+2025-12,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,2.984,27
+2025-12,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,2.9779,27
+2025-12,consigned,consigned,e85,E85,A,3.7229,27
+2025-12,consigned,consigned,e85,E85,B,3.7173,27
+2025-12,consigned,consigned,e85,E85,C,3.7173,27
+2025-12,consigned,consigned,e85,E85,D-1,,0
+2025-12,consigned,consigned,e85,E85,D-2,,0
+2025-12,consigned,consigned,e85,E85,E,,0
+2026-01,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.6584,27
+2026-01,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6003,27
+2026-01,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.5152,27
+2026-01,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.608,27
+2026-01,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.6394,27
+2026-01,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5322,27
+2026-01,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.4173,27
+2026-01,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.3868,27
+2026-01,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.4073,27
+2026-01,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.5623,27
+2026-01,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.4868,27
+2026-01,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.4868,27
+2026-01,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.5773,27
+2026-01,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.4563,27
+2026-01,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.4327,27
+2026-01,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.5452,27
+2026-01,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.5693,27
+2026-01,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.467,27
+2026-01,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.3676,27
+2026-01,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.313,27
+2026-01,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.3062,27
+2026-01,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.4162,27
+2026-01,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.3801,27
+2026-01,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.3539,27
+2026-01,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.0716,27
+2026-01,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.0794,27
+2026-01,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,2.9925,27
+2026-01,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.1562,27
+2026-01,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.1595,27
+2026-01,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.0385,27
+2026-01,bulk,transport,ulsd_clear,ULS Diesel Clear,A,2.961,27
+2026-01,bulk,transport,ulsd_clear,ULS Diesel Clear,B,2.9064,27
+2026-01,bulk,transport,ulsd_clear,ULS Diesel Clear,C,2.9152,27
+2026-01,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.041,27
+2026-01,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,2.9735,27
+2026-01,bulk,transport,ulsd_clear,ULS Diesel Clear,E,2.9473,27
+2026-01,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.6067,27
+2026-01,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.6145,27
+2026-01,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.5276,27
+2026-01,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.6913,27
+2026-01,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.6946,27
+2026-01,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.5736,27
+2026-01,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.4961,27
+2026-01,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.4415,27
+2026-01,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.4503,27
+2026-01,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.5761,27
+2026-01,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.5086,27
+2026-01,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.5086,27
+2026-01,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-01,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-01,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-01,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-01,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-01,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-01,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-01,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.0737,27
+2026-01,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-01,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-01,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-01,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-01,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.5266,27
+2026-01,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.5036,27
+2026-01,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.4912,27
+2026-01,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.4976,27
+2026-01,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.5439,27
+2026-01,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5021,27
+2026-01,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.0951,27
+2026-01,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.0536,27
+2026-01,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.0374,27
+2026-01,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.0658,27
+2026-01,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.0676,27
+2026-01,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.0615,27
+2026-01,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.0548,27
+2026-01,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.0183,27
+2026-01,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,2.9919,27
+2026-01,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.0255,27
+2026-01,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.0273,27
+2026-01,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.0212,27
+2026-01,consigned,consigned,e85,E85,A,3.7211,27
+2026-01,consigned,consigned,e85,E85,B,3.7155,27
+2026-01,consigned,consigned,e85,E85,C,3.7155,27
+2026-01,consigned,consigned,e85,E85,D-1,,0
+2026-01,consigned,consigned,e85,E85,D-2,,0
+2026-01,consigned,consigned,e85,E85,E,,0
+2026-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.7192,24
+2026-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.6611,24
+2026-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.576,24
+2026-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.6688,24
+2026-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.7002,24
+2026-02,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.593,24
+2026-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.4781,24
+2026-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.4476,24
+2026-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.4681,24
+2026-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.6231,24
+2026-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.5476,24
+2026-02,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5476,24
+2026-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.9459,24
+2026-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.8249,24
+2026-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.8013,24
+2026-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.9138,24
+2026-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.9379,24
+2026-02,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.8356,24
+2026-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,2.7362,24
+2026-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,2.6816,24
+2026-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,2.6748,24
+2026-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,2.7848,24
+2026-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,2.7487,24
+2026-02,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,2.7225,24
+2026-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,3.3278,24
+2026-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,3.3356,24
+2026-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,3.2487,24
+2026-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,3.4124,24
+2026-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,3.4157,24
+2026-02,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,3.2947,24
+2026-02,bulk,transport,ulsd_clear,ULS Diesel Clear,A,3.2172,24
+2026-02,bulk,transport,ulsd_clear,ULS Diesel Clear,B,3.1626,24
+2026-02,bulk,transport,ulsd_clear,ULS Diesel Clear,C,3.1714,24
+2026-02,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,3.2972,24
+2026-02,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,3.2297,24
+2026-02,bulk,transport,ulsd_clear,ULS Diesel Clear,E,3.2035,24
+2026-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,2.8756,24
+2026-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,2.8834,24
+2026-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,2.7965,24
+2026-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,2.9602,24
+2026-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,2.9635,24
+2026-02,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,2.8425,24
+2026-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,2.765,24
+2026-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,2.7104,24
+2026-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,2.7192,24
+2026-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,2.845,24
+2026-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,2.7775,24
+2026-02,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,2.7775,24
+2026-02,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-02,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-02,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-02,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-02,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-02,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-02,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-02,bulk,tankwagon,ulsd_b5,ULSD B5,B,3.4201,24
+2026-02,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-02,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-02,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-02,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,2.5874,24
+2026-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,2.5644,24
+2026-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,2.552,24
+2026-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,2.5584,24
+2026-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,2.6047,24
+2026-02,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,2.5629,24
+2026-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,3.4415,24
+2026-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,3.4,24
+2026-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,3.3838,24
+2026-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,3.4122,24
+2026-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,3.414,24
+2026-02,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,3.4079,24
+2026-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,3.311,24
+2026-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,3.2745,24
+2026-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,3.2481,24
+2026-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,3.2817,24
+2026-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,3.2835,24
+2026-02,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,3.2774,24
+2026-02,consigned,consigned,e85,E85,A,3.721,24
+2026-02,consigned,consigned,e85,E85,B,3.7154,24
+2026-02,consigned,consigned,e85,E85,C,3.7154,24
+2026-02,consigned,consigned,e85,E85,D-1,,0
+2026-02,consigned,consigned,e85,E85,D-2,,0
+2026-02,consigned,consigned,e85,E85,E,,0
+2026-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.6039,26
+2026-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.5458,26
+2026-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.4607,26
+2026-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.5535,26
+2026-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.5849,26
+2026-03,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.4777,26
+2026-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.3628,26
+2026-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.3323,26
+2026-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.3528,26
+2026-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.5078,26
+2026-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.4323,26
+2026-03,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.4323,26
+2026-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.4308,26
+2026-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.3098,26
+2026-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.2862,26
+2026-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.3987,26
+2026-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.4228,26
+2026-03,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.3205,26
+2026-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.2211,26
+2026-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.1665,26
+2026-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.1597,26
+2026-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.2697,26
+2026-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.2336,26
+2026-03,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.2074,26
+2026-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,4.8606,26
+2026-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,4.8684,26
+2026-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,4.7815,26
+2026-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,4.9452,26
+2026-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,4.9485,26
+2026-03,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,4.8275,26
+2026-03,bulk,transport,ulsd_clear,ULS Diesel Clear,A,4.75,26
+2026-03,bulk,transport,ulsd_clear,ULS Diesel Clear,B,4.6954,26
+2026-03,bulk,transport,ulsd_clear,ULS Diesel Clear,C,4.7042,26
+2026-03,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,4.83,26
+2026-03,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,4.7625,26
+2026-03,bulk,transport,ulsd_clear,ULS Diesel Clear,E,4.7363,26
+2026-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,4.4044,26
+2026-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,4.4122,26
+2026-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,4.3253,26
+2026-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,4.489,26
+2026-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,4.4923,26
+2026-03,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,4.3713,26
+2026-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,4.2938,26
+2026-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,4.2392,26
+2026-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,4.248,26
+2026-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,4.3738,26
+2026-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,4.3063,26
+2026-03,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,4.3063,26
+2026-03,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-03,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-03,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-03,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-03,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-03,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-03,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-03,bulk,tankwagon,ulsd_b5,ULSD B5,B,4.9467,26
+2026-03,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-03,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-03,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-03,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.4721,26
+2026-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.4491,26
+2026-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.4367,26
+2026-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.4431,26
+2026-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.4894,26
+2026-03,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.4476,26
+2026-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,4.9681,26
+2026-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,4.9266,26
+2026-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,4.9104,26
+2026-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,4.9388,26
+2026-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,4.9406,26
+2026-03,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,4.9345,26
+2026-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,4.8438,26
+2026-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,4.8073,26
+2026-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,4.7809,26
+2026-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,4.8145,26
+2026-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,4.8163,26
+2026-03,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,4.8102,26
+2026-03,consigned,consigned,e85,E85,A,3.721,26
+2026-03,consigned,consigned,e85,E85,B,3.7154,26
+2026-03,consigned,consigned,e85,E85,C,3.7154,26
+2026-03,consigned,consigned,e85,E85,D-1,,0
+2026-03,consigned,consigned,e85,E85,D-2,,0
+2026-03,consigned,consigned,e85,E85,E,,0
+2026-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,4.0047,25
+2026-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.9466,25
+2026-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.8615,25
+2026-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.9543,25
+2026-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.9857,25
+2026-04,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8785,25
+2026-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.7636,25
+2026-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.7331,25
+2026-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.7536,25
+2026-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.9086,25
+2026-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.8331,25
+2026-04,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8331,25
+2026-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.3238,25
+2026-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.2028,25
+2026-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.1792,25
+2026-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.2917,25
+2026-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.3158,25
+2026-04,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.2135,25
+2026-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.1141,25
+2026-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.0595,25
+2026-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.0527,25
+2026-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.1627,25
+2026-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.1266,25
+2026-04,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.1004,25
+2026-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,4.8796,25
+2026-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,4.8874,25
+2026-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,4.8005,25
+2026-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,4.9642,25
+2026-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,4.9675,25
+2026-04,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,4.8465,25
+2026-04,bulk,transport,ulsd_clear,ULS Diesel Clear,A,4.769,25
+2026-04,bulk,transport,ulsd_clear,ULS Diesel Clear,B,4.7144,25
+2026-04,bulk,transport,ulsd_clear,ULS Diesel Clear,C,4.7232,25
+2026-04,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,4.849,25
+2026-04,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,4.7815,25
+2026-04,bulk,transport,ulsd_clear,ULS Diesel Clear,E,4.7553,25
+2026-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,4.4124,25
+2026-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,4.4202,25
+2026-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,4.3333,25
+2026-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,4.497,25
+2026-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,4.5003,25
+2026-04,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,4.3793,25
+2026-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,4.3018,25
+2026-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,4.2472,25
+2026-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,4.256,25
+2026-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,4.3818,25
+2026-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,4.3143,25
+2026-04,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,4.3143,25
+2026-04,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-04,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-04,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-04,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-04,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-04,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-04,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-04,bulk,tankwagon,ulsd_b5,ULSD B5,B,4.8887,25
+2026-04,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-04,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-04,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-04,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.8729,25
+2026-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.8499,25
+2026-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.8375,25
+2026-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.8439,25
+2026-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.8902,25
+2026-04,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8484,25
+2026-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,4.9101,25
+2026-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,4.8686,25
+2026-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,4.8524,25
+2026-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,4.8808,25
+2026-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,4.8826,25
+2026-04,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,4.8765,25
+2026-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,4.8628,25
+2026-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,4.8263,25
+2026-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,4.7999,25
+2026-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,4.8335,25
+2026-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,4.8353,25
+2026-04,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,4.8292,25
+2026-04,consigned,consigned,e85,E85,A,3.721,25
+2026-04,consigned,consigned,e85,E85,B,3.7154,25
+2026-04,consigned,consigned,e85,E85,C,3.7154,25
+2026-04,consigned,consigned,e85,E85,D-1,,0
+2026-04,consigned,consigned,e85,E85,D-2,,0
+2026-04,consigned,consigned,e85,E85,E,,0
+2026-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,4.2403,26
+2026-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,4.1822,26
+2026-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,4.0971,26
+2026-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,4.1899,26
+2026-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,4.2213,26
+2026-05,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,4.1141,26
+2026-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.9992,26
+2026-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.9687,26
+2026-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.9892,26
+2026-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,4.1442,26
+2026-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,4.0687,26
+2026-05,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,4.0687,26
+2026-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.2971,26
+2026-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.1761,26
+2026-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.1525,26
+2026-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.265,26
+2026-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.2891,26
+2026-05,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.1868,26
+2026-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.0874,26
+2026-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.0328,26
+2026-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.026,26
+2026-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.136,26
+2026-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.0999,26
+2026-05,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.0737,26
+2026-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,4.8108,26
+2026-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,4.8186,26
+2026-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,4.7317,26
+2026-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,4.8954,26
+2026-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,4.8987,26
+2026-05,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,4.7777,26
+2026-05,bulk,transport,ulsd_clear,ULS Diesel Clear,A,4.7002,26
+2026-05,bulk,transport,ulsd_clear,ULS Diesel Clear,B,4.6456,26
+2026-05,bulk,transport,ulsd_clear,ULS Diesel Clear,C,4.6544,26
+2026-05,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,4.7802,26
+2026-05,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,4.7127,26
+2026-05,bulk,transport,ulsd_clear,ULS Diesel Clear,E,4.6865,26
+2026-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,4.353,26
+2026-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,4.3608,26
+2026-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,4.2739,26
+2026-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,4.4376,26
+2026-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,4.4409,26
+2026-05,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,4.3199,26
+2026-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,4.2424,26
+2026-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,4.1878,26
+2026-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,4.1966,26
+2026-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,4.3224,26
+2026-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,4.2549,26
+2026-05,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,4.2549,26
+2026-05,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-05,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-05,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-05,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-05,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-05,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-05,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-05,bulk,tankwagon,ulsd_b5,ULSD B5,B,4.8432,26
+2026-05,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-05,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-05,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-05,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,4.1085,26
+2026-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,4.0855,26
+2026-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,4.0731,26
+2026-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,4.0795,26
+2026-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,4.1258,26
+2026-05,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,4.084,26
+2026-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,4.8646,26
+2026-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,4.8231,26
+2026-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,4.8069,26
+2026-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,4.8353,26
+2026-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,4.8371,26
+2026-05,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,4.831,26
+2026-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,4.794,26
+2026-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,4.7575,26
+2026-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,4.7311,26
+2026-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,4.7647,26
+2026-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,4.7665,26
+2026-05,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,4.7604,26
+2026-05,consigned,consigned,e85,E85,A,3.721,26
+2026-05,consigned,consigned,e85,E85,B,3.7154,26
+2026-05,consigned,consigned,e85,E85,C,3.7154,26
+2026-05,consigned,consigned,e85,E85,D-1,,0
+2026-05,consigned,consigned,e85,E85,D-2,,0
+2026-05,consigned,consigned,e85,E85,E,,0
+2026-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.6471,26
+2026-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.589,26
+2026-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.5039,26
+2026-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.5967,26
+2026-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.6281,26
+2026-06,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.5209,26
+2026-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.406,26
+2026-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.3755,26
+2026-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.396,26
+2026-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.551,26
+2026-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.4755,26
+2026-06,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.4755,26
+2026-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,3.7109,26
+2026-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,3.5899,26
+2026-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,3.5663,26
+2026-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,3.6788,26
+2026-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,3.7029,26
+2026-06,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,3.6006,26
+2026-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,3.5012,26
+2026-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,3.4466,26
+2026-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,3.4398,26
+2026-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,3.5498,26
+2026-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,3.5137,26
+2026-06,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,3.4875,26
+2026-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,4.2652,26
+2026-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,4.273,26
+2026-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,4.1861,26
+2026-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,4.3498,26
+2026-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,4.3531,26
+2026-06,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,4.2321,26
+2026-06,bulk,transport,ulsd_clear,ULS Diesel Clear,A,4.1546,26
+2026-06,bulk,transport,ulsd_clear,ULS Diesel Clear,B,4.1,26
+2026-06,bulk,transport,ulsd_clear,ULS Diesel Clear,C,4.1088,26
+2026-06,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,4.2346,26
+2026-06,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,4.1671,26
+2026-06,bulk,transport,ulsd_clear,ULS Diesel Clear,E,4.1409,26
+2026-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,3.8036,26
+2026-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,3.8114,26
+2026-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,3.7245,26
+2026-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,3.8882,26
+2026-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,3.8915,26
+2026-06,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,3.7705,26
+2026-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,3.693,26
+2026-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,3.6384,26
+2026-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,3.6472,26
+2026-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,3.773,26
+2026-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,3.7055,26
+2026-06,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,3.7055,26
+2026-06,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-06,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-06,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-06,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-06,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-06,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-06,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-06,bulk,tankwagon,ulsd_b5,ULSD B5,B,4.2506,26
+2026-06,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-06,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-06,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-06,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.5153,26
+2026-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.4923,26
+2026-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.4799,26
+2026-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.4863,26
+2026-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.5326,26
+2026-06,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.4908,26
+2026-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,4.272,26
+2026-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,4.2305,26
+2026-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,4.2143,26
+2026-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,4.2427,26
+2026-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,4.2445,26
+2026-06,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,4.2384,26
+2026-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,4.2484,26
+2026-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,4.2119,26
+2026-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,4.1855,26
+2026-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,4.2191,26
+2026-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,4.2209,26
+2026-06,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,4.2148,26
+2026-06,consigned,consigned,e85,E85,A,3.721,26
+2026-06,consigned,consigned,e85,E85,B,3.7154,26
+2026-06,consigned,consigned,e85,E85,C,3.7154,26
+2026-06,consigned,consigned,e85,E85,D-1,,0
+2026-06,consigned,consigned,e85,E85,D-2,,0
+2026-06,consigned,consigned,e85,E85,E,,0
+2026-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.7056,27
+2026-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.6475,27
+2026-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.5624,27
+2026-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.6552,27
+2026-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.6866,27
+2026-07,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.5794,27
+2026-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.4645,27
+2026-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.434,27
+2026-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.4545,27
+2026-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.6095,27
+2026-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.534,27
+2026-07,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.534,27
+2026-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.0428,27
+2026-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,3.9218,27
+2026-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,3.8982,27
+2026-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.0107,27
+2026-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.0348,27
+2026-07,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,3.9325,27
+2026-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,3.8331,27
+2026-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,3.7785,27
+2026-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,3.7717,27
+2026-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,3.8817,27
+2026-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,3.8456,27
+2026-07,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,3.8194,27
+2026-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,4.6699,27
+2026-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,4.6777,27
+2026-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,4.5908,27
+2026-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,4.7545,27
+2026-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,4.7578,27
+2026-07,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,4.6368,27
+2026-07,bulk,transport,ulsd_clear,ULS Diesel Clear,A,4.5593,27
+2026-07,bulk,transport,ulsd_clear,ULS Diesel Clear,B,4.5047,27
+2026-07,bulk,transport,ulsd_clear,ULS Diesel Clear,C,4.5135,27
+2026-07,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,4.6393,27
+2026-07,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,4.5718,27
+2026-07,bulk,transport,ulsd_clear,ULS Diesel Clear,E,4.5456,27
+2026-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,4.1991,27
+2026-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,4.2069,27
+2026-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,4.12,27
+2026-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,4.2837,27
+2026-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,4.287,27
+2026-07,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,4.166,27
+2026-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,4.0885,27
+2026-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,4.0339,27
+2026-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,4.0427,27
+2026-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,4.1685,27
+2026-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,4.101,27
+2026-07,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,4.101,27
+2026-07,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-07,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-07,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-07,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-07,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-07,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-07,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-07,bulk,tankwagon,ulsd_b5,ULSD B5,B,4.6455,27
+2026-07,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-07,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-07,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-07,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.5738,27
+2026-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.5508,27
+2026-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.5384,27
+2026-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.5448,27
+2026-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.5911,27
+2026-07,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.5493,27
+2026-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,4.6669,27
+2026-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,4.6254,27
+2026-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,4.6092,27
+2026-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,4.6376,27
+2026-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,4.6394,27
+2026-07,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,4.6333,27
+2026-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,4.6531,27
+2026-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,4.6166,27
+2026-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,4.5902,27
+2026-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,4.6238,27
+2026-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,4.6256,27
+2026-07,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,4.6195,27
+2026-07,consigned,consigned,e85,E85,A,3.727,27
+2026-07,consigned,consigned,e85,E85,B,3.7214,27
+2026-07,consigned,consigned,e85,E85,C,3.7214,27
+2026-07,consigned,consigned,e85,E85,D-1,,0
+2026-07,consigned,consigned,e85,E85,D-2,,0
+2026-07,consigned,consigned,e85,E85,E,,0
+2026-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.6895,26
+2026-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.6314,26
+2026-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.5463,26
+2026-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.6391,26
+2026-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.6705,26
+2026-08,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.5633,26
+2026-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.4484,26
+2026-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.4179,26
+2026-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.4384,26
+2026-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.5934,26
+2026-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.5179,26
+2026-08,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.5179,26
+2026-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.4265,26
+2026-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.3055,26
+2026-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.2819,26
+2026-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.3944,26
+2026-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.4185,26
+2026-08,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.3162,26
+2026-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,4.2168,26
+2026-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,4.1622,26
+2026-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,4.1554,26
+2026-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,4.2654,26
+2026-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,4.2293,26
+2026-08,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,4.2031,26
+2026-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,5.0452,26
+2026-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,5.053,26
+2026-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,4.9661,26
+2026-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,5.1298,26
+2026-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,5.1331,26
+2026-08,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,5.0121,26
+2026-08,bulk,transport,ulsd_clear,ULS Diesel Clear,A,4.9346,26
+2026-08,bulk,transport,ulsd_clear,ULS Diesel Clear,B,4.88,26
+2026-08,bulk,transport,ulsd_clear,ULS Diesel Clear,C,4.8888,26
+2026-08,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,5.0146,26
+2026-08,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,4.9471,26
+2026-08,bulk,transport,ulsd_clear,ULS Diesel Clear,E,4.9209,26
+2026-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,4.5664,26
+2026-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,4.5742,26
+2026-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,4.4873,26
+2026-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,4.651,26
+2026-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,4.6543,26
+2026-08,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,4.5333,26
+2026-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,4.4558,26
+2026-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,4.4012,26
+2026-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,4.41,26
+2026-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,4.5358,26
+2026-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,4.4683,26
+2026-08,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,4.4683,26
+2026-08,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-08,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-08,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-08,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-08,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-08,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-08,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-08,bulk,tankwagon,ulsd_b5,ULSD B5,B,5.0381,26
+2026-08,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-08,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-08,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-08,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.5577,26
+2026-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.5347,26
+2026-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.5223,26
+2026-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.5287,26
+2026-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.575,26
+2026-08,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.5332,26
+2026-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,5.0595,26
+2026-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,5.018,26
+2026-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,5.0018,26
+2026-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,5.0302,26
+2026-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,5.032,26
+2026-08,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,5.0259,26
+2026-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,5.0284,26
+2026-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,4.9919,26
+2026-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,4.9655,26
+2026-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,4.9991,26
+2026-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,5.0009,26
+2026-08,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,4.9948,26
+2026-08,consigned,consigned,e85,E85,A,3.727,26
+2026-08,consigned,consigned,e85,E85,B,3.7214,26
+2026-08,consigned,consigned,e85,E85,C,3.7214,26
+2026-08,consigned,consigned,e85,E85,D-1,,0
+2026-08,consigned,consigned,e85,E85,D-2,,0
+2026-08,consigned,consigned,e85,E85,E,,0
+2026-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.992,26
+2026-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.9339,26
+2026-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.8488,26
+2026-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.9416,26
+2026-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.973,26
+2026-09,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8658,26
+2026-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.7509,26
+2026-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.7204,26
+2026-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.7409,26
+2026-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.8959,26
+2026-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.8204,26
+2026-09,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8204,26
+2026-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,5.2838,26
+2026-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,5.1628,26
+2026-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,5.1392,26
+2026-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,5.2517,26
+2026-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,5.2758,26
+2026-09,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,5.1735,26
+2026-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,5.0741,26
+2026-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,5.0195,26
+2026-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,5.0127,26
+2026-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,5.1227,26
+2026-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,5.0866,26
+2026-09,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,5.0604,26
+2026-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,5.7947,26
+2026-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,5.8025,26
+2026-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,5.7156,26
+2026-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,5.8793,26
+2026-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,5.8826,26
+2026-09,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,5.7616,26
+2026-09,bulk,transport,ulsd_clear,ULS Diesel Clear,A,5.6841,26
+2026-09,bulk,transport,ulsd_clear,ULS Diesel Clear,B,5.6295,26
+2026-09,bulk,transport,ulsd_clear,ULS Diesel Clear,C,5.6383,26
+2026-09,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,5.7641,26
+2026-09,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,5.6966,26
+2026-09,bulk,transport,ulsd_clear,ULS Diesel Clear,E,5.6704,26
+2026-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,5.3374,26
+2026-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,5.3452,26
+2026-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,5.2583,26
+2026-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,5.422,26
+2026-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,5.4253,26
+2026-09,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,5.3043,26
+2026-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,5.2268,26
+2026-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,5.1722,26
+2026-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,5.181,26
+2026-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,5.3068,26
+2026-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,5.2393,26
+2026-09,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,5.2393,26
+2026-09,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-09,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-09,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-09,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-09,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-09,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-09,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-09,bulk,tankwagon,ulsd_b5,ULSD B5,B,5.8181,26
+2026-09,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-09,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-09,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-09,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.8602,26
+2026-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.8372,26
+2026-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.8248,26
+2026-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.8312,26
+2026-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.8775,26
+2026-09,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8357,26
+2026-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,5.8395,26
+2026-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,5.798,26
+2026-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,5.7818,26
+2026-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,5.8102,26
+2026-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,5.812,26
+2026-09,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,5.8059,26
+2026-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,5.7779,26
+2026-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,5.7414,26
+2026-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,5.715,26
+2026-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,5.7486,26
+2026-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,5.7504,26
+2026-09,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,5.7443,26
+2026-09,consigned,consigned,e85,E85,A,3.727,26
+2026-09,consigned,consigned,e85,E85,B,3.7214,26
+2026-09,consigned,consigned,e85,E85,C,3.7214,26
+2026-09,consigned,consigned,e85,E85,D-1,,0
+2026-09,consigned,consigned,e85,E85,D-2,,0
+2026-09,consigned,consigned,e85,E85,E,,0
+2026-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.9286,25
+2026-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.8705,25
+2026-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.7854,25
+2026-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.8782,25
+2026-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.9096,25
+2026-10,bulk,tankwagon,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.8024,25
+2026-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.6875,25
+2026-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.657,25
+2026-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.6775,25
+2026-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.8325,25
+2026-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.757,25
+2026-10,bulk,transport,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.757,25
+2026-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,5.4129,25
+2026-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,5.2919,25
+2026-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,5.2683,25
+2026-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,5.3808,25
+2026-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,5.4049,25
+2026-10,bulk,tankwagon,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,5.3026,25
+2026-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,A,5.2032,25
+2026-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,B,5.1486,25
+2026-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,C,5.1418,25
+2026-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-1,5.2518,25
+2026-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,D-2,5.2157,25
+2026-10,bulk,transport,ulsho2,#2 Ultra Low Sulfur Heating Oil,E,5.1895,25
+2026-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,A,5.8958,25
+2026-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,B,5.9036,25
+2026-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,C,5.8167,25
+2026-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-1,5.9804,25
+2026-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,D-2,5.9837,25
+2026-10,bulk,tankwagon,ulsd_clear,ULS Diesel Clear,E,5.8627,25
+2026-10,bulk,transport,ulsd_clear,ULS Diesel Clear,A,5.7852,25
+2026-10,bulk,transport,ulsd_clear,ULS Diesel Clear,B,5.7306,25
+2026-10,bulk,transport,ulsd_clear,ULS Diesel Clear,C,5.7394,25
+2026-10,bulk,transport,ulsd_clear,ULS Diesel Clear,D-1,5.8652,25
+2026-10,bulk,transport,ulsd_clear,ULS Diesel Clear,D-2,5.7977,25
+2026-10,bulk,transport,ulsd_clear,ULS Diesel Clear,E,5.7715,25
+2026-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,A,5.4353,25
+2026-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,B,5.4431,25
+2026-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,C,5.3562,25
+2026-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-1,5.5199,25
+2026-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,D-2,5.5232,25
+2026-10,bulk,tankwagon,ulsd_dyed,ULS Diesel Dyed,E,5.4022,25
+2026-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,A,5.3247,25
+2026-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,B,5.2701,25
+2026-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,C,5.2789,25
+2026-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-1,5.4047,25
+2026-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,D-2,5.3372,25
+2026-10,bulk,transport,ulsd_dyed,ULS Diesel Dyed,E,5.3372,25
+2026-10,bulk,transport,ulsd_b5,ULSD B5,A,,0
+2026-10,bulk,transport,ulsd_b5,ULSD B5,B,,0
+2026-10,bulk,transport,ulsd_b5,ULSD B5,C,,0
+2026-10,bulk,transport,ulsd_b5,ULSD B5,D-1,,0
+2026-10,bulk,transport,ulsd_b5,ULSD B5,D-2,,0
+2026-10,bulk,transport,ulsd_b5,ULSD B5,E,,0
+2026-10,bulk,tankwagon,ulsd_b5,ULSD B5,A,,0
+2026-10,bulk,tankwagon,ulsd_b5,ULSD B5,B,6.0256,25
+2026-10,bulk,tankwagon,ulsd_b5,ULSD B5,C,,0
+2026-10,bulk,tankwagon,ulsd_b5,ULSD B5,D-1,,0
+2026-10,bulk,tankwagon,ulsd_b5,ULSD B5,D-2,,0
+2026-10,bulk,tankwagon,ulsd_b5,ULSD B5,E,,0
+2026-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,A,3.7968,25
+2026-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,B,3.7738,25
+2026-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,C,3.7614,25
+2026-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-1,3.7678,25
+2026-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,D-2,3.8141,25
+2026-10,consigned,consigned,unl87,Unleaded Reg. 87/E10 and Unleaded Conv 87,E,3.7723,25
+2026-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,A,6.047,25
+2026-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,B,6.0055,25
+2026-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,C,5.9893,25
+2026-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-1,6.0177,25
+2026-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,D-2,6.0195,25
+2026-10,consigned,consigned,b5_soy,Soy Bio-Diesel/B5,E,6.0134,25
+2026-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,A,5.879,25
+2026-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,B,5.8425,25
+2026-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,C,5.8161,25
+2026-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-1,5.8497,25
+2026-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,D-2,5.8515,25
+2026-10,consigned,consigned,ulsd_clear,ULS Diesel Clear,E,5.8454,25
+2026-10,consigned,consigned,e85,E85,A,3.727,25
+2026-10,consigned,consigned,e85,E85,B,3.7214,25
+2026-10,consigned,consigned,e85,E85,C,3.7214,25
+2026-10,consigned,consigned,e85,E85,D-1,,0
+2026-10,consigned,consigned,e85,E85,D-2,,0
+2026-10,consigned,consigned,e85,E85,E,,0

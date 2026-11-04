@@ -21,8 +21,10 @@ Outputs in `data/`:
 - `latest.json`: latest prices with 1-day and 1-week changes
 - `products.json`: product list in the order the PDFs print them
 - `regions.json`: county → region lookup
+- `csv/daily.csv`: every price as published, one row per date, fuel and region
+- `csv/weekly.csv`, `csv/monthly.csv`: average price per week (Monday to Sunday) or month, fuel and region. Each average uses only the published days that have a price, and the `days` column gives that count. `avg_price` is blank when the fuel wasn't offered.
 
-A price of `null` means the fuel isn't offered in that region (`0.0000` in the PDF).
+A price of `null` (blank in the CSVs) means the fuel isn't offered in that region (`0.0000` in the PDF).
 
 ## View the site
 

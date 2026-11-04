@@ -92,6 +92,22 @@
       <summary>Which counties are in each region?</summary>
       <dl id="counties"></dl>
     </details>
+
+    <section aria-labelledby="download-heading">
+      <h2 id="download-heading">Download the data</h2>
+      <p class="note">CSV files for every fuel, delivery type and region. Each file has a row for each fuel and
+        region in each period.</p>
+      <ul class="downloads">
+        <li><a href="../data/csv/daily.csv" download>Daily prices</a> <span class="note">(about 3 MB)</span>.
+          This file has one row for each published day.</li>
+        <li><a href="../data/csv/weekly.csv" download>Weekly averages</a> <span class="note">(about 600 KB)</span>.
+          The weeks run Monday to Sunday.</li>
+        <li><a href="../data/csv/monthly.csv" download>Monthly averages</a> <span class="note">(about 120 KB)</span>.</li>
+      </ul>
+      <p class="note">Each average uses only the days that DGS published a price. The <code>days</code> column gives the
+        number of days in each average, so a short first or last period is easy to see. A blank price means that the
+        fuel is not offered in that region.</p>
+    </section>
   </main>
 
   <footer>
