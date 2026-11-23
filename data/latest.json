@@ -1,262 +1,262 @@
 {
-  "date": "2026-10-29",
-  "prev_day_date": "2026-10-28",
-  "prev_week_date": "2026-10-22",
+  "date": "2026-11-23",
+  "prev_day_date": "2026-11-21",
+  "prev_week_date": "2026-11-16",
   "prices": {
     "bulk/tankwagon/unl87": {
       "A": {
-        "price": 3.8429,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.3257,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "B": {
-        "price": 3.7848,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.2676,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "C": {
-        "price": 3.6997,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1825,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "D-1": {
-        "price": 3.7925,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.2753,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "D-2": {
-        "price": 3.8239,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.3067,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "E": {
-        "price": 3.7167,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1995,
+        "day_change": 0.0,
+        "week_change": -0.0752
       }
     },
     "bulk/transport/unl87": {
       "A": {
-        "price": 3.6018,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.0846,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "B": {
-        "price": 3.5713,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.0541,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "C": {
-        "price": 3.5918,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.0746,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "D-1": {
-        "price": 3.7468,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.2296,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "D-2": {
-        "price": 3.6713,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1541,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "E": {
-        "price": 3.6713,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1541,
+        "day_change": 0.0,
+        "week_change": -0.0752
       }
     },
     "bulk/tankwagon/ulsho2": {
       "A": {
-        "price": 5.3353,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.3343,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "B": {
-        "price": 5.2143,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.2133,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "C": {
-        "price": 5.1907,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.1897,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "D-1": {
-        "price": 5.3032,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.3022,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "D-2": {
-        "price": 5.3273,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.3263,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "E": {
-        "price": 5.225,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.224,
+        "day_change": 0.0,
+        "week_change": -0.481
       }
     },
     "bulk/transport/ulsho2": {
       "A": {
-        "price": 5.1256,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.1246,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "B": {
-        "price": 5.071,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.07,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "C": {
-        "price": 5.0642,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.0632,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "D-1": {
-        "price": 5.1742,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.1732,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "D-2": {
-        "price": 5.1381,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.1371,
+        "day_change": 0.0,
+        "week_change": -0.481
       },
       "E": {
-        "price": 5.1119,
-        "day_change": 0.0159,
-        "week_change": -0.0187
+        "price": 4.1109,
+        "day_change": 0.0,
+        "week_change": -0.481
       }
     },
     "bulk/tankwagon/ulsd_clear": {
       "A": {
-        "price": 5.8166,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8681,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "B": {
-        "price": 5.8244,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8759,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "C": {
-        "price": 5.7375,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.789,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "D-1": {
-        "price": 5.9012,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.9527,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "D-2": {
-        "price": 5.9045,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.956,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "E": {
-        "price": 5.7835,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.835,
+        "day_change": 0.0,
+        "week_change": -0.4426
       }
     },
     "bulk/transport/ulsd_clear": {
       "A": {
-        "price": 5.706,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.7575,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "B": {
-        "price": 5.6514,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.7029,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "C": {
-        "price": 5.6602,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.7117,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "D-1": {
-        "price": 5.786,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8375,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "D-2": {
-        "price": 5.7185,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.77,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "E": {
-        "price": 5.6923,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.7438,
+        "day_change": 0.0,
+        "week_change": -0.4426
       }
     },
     "bulk/tankwagon/ulsd_dyed": {
       "A": {
-        "price": 5.3503,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.3949,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "B": {
-        "price": 5.3581,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.4027,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "C": {
-        "price": 5.2712,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.3158,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "D-1": {
-        "price": 5.4349,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.4795,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "D-2": {
-        "price": 5.4382,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.4828,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "E": {
-        "price": 5.3172,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.3618,
+        "day_change": 0.0,
+        "week_change": -0.4436
       }
     },
     "bulk/transport/ulsd_dyed": {
       "A": {
-        "price": 5.2397,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.2843,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "B": {
-        "price": 5.1851,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.2297,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "C": {
-        "price": 5.1939,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.2385,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "D-1": {
-        "price": 5.3197,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.3643,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "D-2": {
-        "price": 5.2522,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.2968,
+        "day_change": 0.0,
+        "week_change": -0.4436
       },
       "E": {
-        "price": 5.2522,
-        "day_change": 0.0163,
-        "week_change": -0.0303
+        "price": 4.2968,
+        "day_change": 0.0,
+        "week_change": -0.4436
       }
     },
     "bulk/transport/ulsd_b5": {
@@ -298,9 +298,9 @@
         "week_change": null
       },
       "B": {
-        "price": 5.9459,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.0945,
+        "day_change": 0.0,
+        "week_change": -0.3829
       },
       "C": {
         "price": null,
@@ -325,98 +325,98 @@
     },
     "consigned/consigned/unl87": {
       "A": {
-        "price": 3.7111,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1939,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "B": {
-        "price": 3.6881,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1709,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "C": {
-        "price": 3.6757,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1585,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "D-1": {
-        "price": 3.6821,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1649,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "D-2": {
-        "price": 3.7284,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.2112,
+        "day_change": 0.0,
+        "week_change": -0.0752
       },
       "E": {
-        "price": 3.6866,
-        "day_change": 0.0617,
-        "week_change": 0.0514
+        "price": 3.1694,
+        "day_change": 0.0,
+        "week_change": -0.0752
       }
     },
     "consigned/consigned/b5_soy": {
       "A": {
-        "price": 5.9673,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.1159,
+        "day_change": 0.0,
+        "week_change": -0.3829
       },
       "B": {
-        "price": 5.9258,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.0744,
+        "day_change": 0.0,
+        "week_change": -0.3829
       },
       "C": {
-        "price": 5.9096,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.0582,
+        "day_change": 0.0,
+        "week_change": -0.3829
       },
       "D-1": {
-        "price": 5.938,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.0866,
+        "day_change": 0.0,
+        "week_change": -0.3829
       },
       "D-2": {
-        "price": 5.9398,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.0884,
+        "day_change": 0.0,
+        "week_change": -0.3829
       },
       "E": {
-        "price": 5.9337,
-        "day_change": 0.0029,
-        "week_change": -0.0489
+        "price": 5.0823,
+        "day_change": 0.0,
+        "week_change": -0.3829
       }
     },
     "consigned/consigned/ulsd_clear": {
       "A": {
-        "price": 5.7998,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8513,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "B": {
-        "price": 5.7633,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8148,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "C": {
-        "price": 5.7369,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.7884,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "D-1": {
-        "price": 5.7705,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.822,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "D-2": {
-        "price": 5.7723,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8238,
+        "day_change": 0.0,
+        "week_change": -0.4426
       },
       "E": {
-        "price": 5.7662,
-        "day_change": 0.0145,
-        "week_change": -0.0255
+        "price": 4.8177,
+        "day_change": 0.0,
+        "week_change": -0.4426
       }
     },
     "consigned/consigned/e85": {
